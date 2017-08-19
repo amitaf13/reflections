@@ -3,6 +3,10 @@ No commits are created, git is clean and needed to performed the first commit.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+staging area is a previo before to performed changes definitives, then you can remove what you
+want to commit. Working disrectory is where you are coding and repository is where history of
+changes are saved. Have the three parts makes easier to think better about the changes than will
+be done on code and how save them.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
