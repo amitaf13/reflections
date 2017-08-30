@@ -18,6 +18,7 @@ They can be used to performed changes minor but with high impact and not lost th
 try to experiment other code, they help to make you more confident about try another stuff on code
 
 How do the diagrams help you visualize the branch structure?
+It is easier to see the commits that can be seen since any branch until initial commit
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
