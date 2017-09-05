@@ -22,6 +22,8 @@ It is easier to see the commits that can be seen since any branch until initial 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Gets a big picture of all changes done by different people. It is easier to see changes on branches, how
+merge branches using a diagram, otherwise you can lost the tracking of changes.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
