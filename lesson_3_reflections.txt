@@ -6,7 +6,7 @@ When i work remotelly, using another computer or i want to perform any change si
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+Because maybe not all changes i want them on my local computer, maybe i need to verify which changes can be useful
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
