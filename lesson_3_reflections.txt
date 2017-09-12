@@ -22,7 +22,9 @@ Because you can compare changes with yours and done a merge fixing conflicts
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+A solution could be using email sending changes done for code, the hard part will be merge the 
+different codes without create a conflict later because missing variables or so on, easy part if code is
+small changes will be done fast.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
