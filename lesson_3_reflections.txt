@@ -29,4 +29,6 @@ small changes will be done fast.
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+When you are working with more people, they needs to verify if your changes can affect the master branch,
+if a second branch is created you can get feedback about changes and if they are ok, they can be added to
+master branch. Code control and avoid reworking and issues with mixed code.
